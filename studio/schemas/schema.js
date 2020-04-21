@@ -28,8 +28,8 @@ export default createSchema({
     // in the studio.
     siteSettings,
     post,
-    category,
     author,
+    category,
     mainImage,
     authorReference,
     bodyPortableText,
